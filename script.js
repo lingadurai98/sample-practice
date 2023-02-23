@@ -3,3 +3,4 @@ b = 1;
 console.log(a * b);
 console.log("lignadurai");
 console.log("aathiiiiiiii");
+console.log("checking");
